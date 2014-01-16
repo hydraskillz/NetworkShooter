@@ -1,0 +1,7 @@
+<!-- Binding of keys to events -->
+<Input>
+  <Binding name="SteerLeft"  key="LEFT_ARROW"  state="JUST_DOWN | DOWN" function="PlayerSteer x=0.03" />
+  <Binding name="SteerRight" key="RIGHT_ARROW" state="JUST_DOWN | DOWN" function="PlayerSteer x=-0.03" />
+  <Binding name="Thrust"     key="UP_ARROW"    state="JUST_DOWN | DOWN" function="PlayerThrust x=3" />
+  <Binding name="Fire"       key="SPACEBAR"    state="JUST_DOWN" />
+</Input>

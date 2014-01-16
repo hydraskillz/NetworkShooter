@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MageApp", "MageApp.vcxproj", "{5CFA06FD-BC4D-402C-B13F-A001590AA2D4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_app", "test_app\test_app.vcxproj", "{1A7DAD8D-8580-420F-984C-3897661D8786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CFA06FD-BC4D-402C-B13F-A001590AA2D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CFA06FD-BC4D-402C-B13F-A001590AA2D4}.Debug|Win32.Build.0 = Debug|Win32
+		{5CFA06FD-BC4D-402C-B13F-A001590AA2D4}.Release|Win32.ActiveCfg = Release|Win32
+		{5CFA06FD-BC4D-402C-B13F-A001590AA2D4}.Release|Win32.Build.0 = Release|Win32
+		{1A7DAD8D-8580-420F-984C-3897661D8786}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1A7DAD8D-8580-420F-984C-3897661D8786}.Debug|Win32.Build.0 = Debug|Win32
+		{1A7DAD8D-8580-420F-984C-3897661D8786}.Release|Win32.ActiveCfg = Release|Win32
+		{1A7DAD8D-8580-420F-984C-3897661D8786}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

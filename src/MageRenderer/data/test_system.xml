@@ -1,0 +1,19 @@
+<ParticleSystem>
+  <Emitter
+    texture="particleLine.png"
+    duration="0"
+    loops="0"
+    delay="0"
+    
+    rate="30"
+    
+    lifetime="3"
+    
+    scale="1"
+    
+    velocity=""
+    
+    color="white">
+    
+  </Emitter>
+</ParticleSystem>

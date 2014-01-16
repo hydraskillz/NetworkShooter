@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MageCore", "MageCore.vcxproj", "{6619210F-3761-45A5-97A4-7DB220CE059C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MageMath", "..\MageMath\MageMath.vcxproj", "{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XmlUtil_Test", "XmlUtil_Test\XmlUtil_Test.vcxproj", "{6779BA6B-568A-412D-BD4E-9616449D75B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugInline|Win32 = DebugInline|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.Debug|Win32.Build.0 = Debug|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.DebugInline|Win32.ActiveCfg = Debug|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.DebugInline|Win32.Build.0 = Debug|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.Release|Win32.ActiveCfg = Release|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.Release|Win32.Build.0 = Release|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.Debug|Win32.Build.0 = Debug|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.DebugInline|Win32.ActiveCfg = DebugInline|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.DebugInline|Win32.Build.0 = DebugInline|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.Release|Win32.ActiveCfg = Release|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.Release|Win32.Build.0 = Release|Win32
+		{6779BA6B-568A-412D-BD4E-9616449D75B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6779BA6B-568A-412D-BD4E-9616449D75B7}.Debug|Win32.Build.0 = Debug|Win32
+		{6779BA6B-568A-412D-BD4E-9616449D75B7}.DebugInline|Win32.ActiveCfg = Debug|Win32
+		{6779BA6B-568A-412D-BD4E-9616449D75B7}.DebugInline|Win32.Build.0 = Debug|Win32
+		{6779BA6B-568A-412D-BD4E-9616449D75B7}.Release|Win32.ActiveCfg = Release|Win32
+		{6779BA6B-568A-412D-BD4E-9616449D75B7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MageRenderer", "MageRenderer.vcxproj", "{1CF0E7CA-DA80-46BB-805A-551BEE9BAD04}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MageCore", "..\MageCore\MageCore.vcxproj", "{6619210F-3761-45A5-97A4-7DB220CE059C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MageMath", "..\MageMath\MageMath.vcxproj", "{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RendererTest", "RendererTest\RendererTest.vcxproj", "{E24B3BAD-CB4D-45B7-B67B-094C027E78E7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParticleTest", "ParticleTest\ParticleTest.vcxproj", "{1140D0E6-0FE4-4C47-8C36-42C361270656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugInline|Win32 = DebugInline|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF0E7CA-DA80-46BB-805A-551BEE9BAD04}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1CF0E7CA-DA80-46BB-805A-551BEE9BAD04}.Debug|Win32.Build.0 = Debug|Win32
+		{1CF0E7CA-DA80-46BB-805A-551BEE9BAD04}.DebugInline|Win32.ActiveCfg = Debug|Win32
+		{1CF0E7CA-DA80-46BB-805A-551BEE9BAD04}.DebugInline|Win32.Build.0 = Debug|Win32
+		{1CF0E7CA-DA80-46BB-805A-551BEE9BAD04}.Release|Win32.ActiveCfg = Release|Win32
+		{1CF0E7CA-DA80-46BB-805A-551BEE9BAD04}.Release|Win32.Build.0 = Release|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.Debug|Win32.Build.0 = Debug|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.DebugInline|Win32.ActiveCfg = Debug|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.DebugInline|Win32.Build.0 = Debug|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.Release|Win32.ActiveCfg = Release|Win32
+		{6619210F-3761-45A5-97A4-7DB220CE059C}.Release|Win32.Build.0 = Release|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.Debug|Win32.Build.0 = Debug|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.DebugInline|Win32.ActiveCfg = DebugInline|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.DebugInline|Win32.Build.0 = DebugInline|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.Release|Win32.ActiveCfg = Release|Win32
+		{CF2592D2-C89B-4CC5-884D-E97CC1DCBB20}.Release|Win32.Build.0 = Release|Win32
+		{E24B3BAD-CB4D-45B7-B67B-094C027E78E7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E24B3BAD-CB4D-45B7-B67B-094C027E78E7}.Debug|Win32.Build.0 = Debug|Win32
+		{E24B3BAD-CB4D-45B7-B67B-094C027E78E7}.DebugInline|Win32.ActiveCfg = Debug|Win32
+		{E24B3BAD-CB4D-45B7-B67B-094C027E78E7}.DebugInline|Win32.Build.0 = Debug|Win32
+		{E24B3BAD-CB4D-45B7-B67B-094C027E78E7}.Release|Win32.ActiveCfg = Release|Win32
+		{E24B3BAD-CB4D-45B7-B67B-094C027E78E7}.Release|Win32.Build.0 = Release|Win32
+		{1140D0E6-0FE4-4C47-8C36-42C361270656}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1140D0E6-0FE4-4C47-8C36-42C361270656}.Debug|Win32.Build.0 = Debug|Win32
+		{1140D0E6-0FE4-4C47-8C36-42C361270656}.DebugInline|Win32.ActiveCfg = Debug|Win32
+		{1140D0E6-0FE4-4C47-8C36-42C361270656}.DebugInline|Win32.Build.0 = Debug|Win32
+		{1140D0E6-0FE4-4C47-8C36-42C361270656}.Release|Win32.ActiveCfg = Release|Win32
+		{1140D0E6-0FE4-4C47-8C36-42C361270656}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
